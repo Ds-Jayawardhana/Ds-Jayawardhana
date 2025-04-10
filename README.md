@@ -16,6 +16,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ds-Jayawardhana&icon=5&color=1)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/Ds-Jayawardhana/Ds-Jayawardhana/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ds-Jayawardhana&color=6B2EE4&style=for-the-badge&label_color=151515" alt="GitHub Profile Views" />
+</div>
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ds-Jayawardhana) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ds-Jayawardhana) 
 
