@@ -1,5 +1,7 @@
 
 ## 💫 About Me:
+<img width="1584" height="396" alt="Linked in banner" src="https://github.com/user-attachments/assets/459cf48d-8762-44f1-a8a7-a2080a6ec495" />
+
  Hello👋! I’m a Computer Science Undergraduate passionate about UI/UX design, mobile app development, web design,Data Science & AI. When I’m not coding, you’ll find me experimenting with color palettes and wireframes. Let’s build beautiful digital experiences together! 🌟
  
 
