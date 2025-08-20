@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Linked in banner" src="https://github.com/user-attachments/assets/459cf48d-8762-44f1-a8a7-a2080a6ec495" />
+<img width="1584" height="396" alt="Linked in banner (2)" src="https://github.com/user-attachments/assets/4886b3ac-43eb-4cf2-91f2-9b8300b0f1de" />
 
 ## 💫 About Me:
 
