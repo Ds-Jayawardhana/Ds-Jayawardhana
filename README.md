@@ -15,9 +15,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ds-Jayawardhana&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ds-Jayawardhana&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ds-Jayawardhana&icon=5&color=1)](https://visitcount.itsvg.in)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/Ds-Jayawardhana.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
 
 
 
